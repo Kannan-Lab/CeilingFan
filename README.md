@@ -18,14 +18,14 @@ Requirements:
 Java 11 or higher
 Maven 3.6.0 or higher
 
-Build and Run/Project
+Build and Run/Project:
 mvn clean compile
 
-Run Tests
+Run Tests:
 mvn test
 
-Clone the Repository
+Clone the Repository:
 git clone https://github.com/Kannan-Lab/CeilingFan.git
 
-Author
+Author:
 Kannan Rajappan
